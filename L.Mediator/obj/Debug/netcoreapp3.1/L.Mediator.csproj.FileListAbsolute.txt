@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\bin\Debug\netcoreapp3.1\L.Mediator.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\bin\Debug\netcoreapp3.1\L.Mediator.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\bin\Debug\netcoreapp3.1\L.Mediator.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\bin\Debug\netcoreapp3.1\L.Mediator.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\bin\Debug\netcoreapp3.1\L.Mediator.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\bin\Debug\netcoreapp3.1\L.Mediator.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\obj\Debug\netcoreapp3.1\L.Mediator.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\obj\Debug\netcoreapp3.1\L.Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\obj\Debug\netcoreapp3.1\L.Mediator.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\obj\Debug\netcoreapp3.1\L.Mediator.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\obj\Debug\netcoreapp3.1\L.Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\obj\Debug\netcoreapp3.1\L.Mediator.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\obj\Debug\netcoreapp3.1\L.Mediator.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\L.Mediator\obj\Debug\netcoreapp3.1\L.Mediator.genruntimeconfig.cache

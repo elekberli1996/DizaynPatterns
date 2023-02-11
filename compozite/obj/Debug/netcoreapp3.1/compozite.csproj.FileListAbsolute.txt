@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\bin\Debug\netcoreapp3.1\compozite.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\bin\Debug\netcoreapp3.1\compozite.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\bin\Debug\netcoreapp3.1\compozite.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\bin\Debug\netcoreapp3.1\compozite.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\bin\Debug\netcoreapp3.1\compozite.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\bin\Debug\netcoreapp3.1\compozite.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\obj\Debug\netcoreapp3.1\compozite.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\obj\Debug\netcoreapp3.1\compozite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\obj\Debug\netcoreapp3.1\compozite.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\obj\Debug\netcoreapp3.1\compozite.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\obj\Debug\netcoreapp3.1\compozite.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\obj\Debug\netcoreapp3.1\compozite.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\obj\Debug\netcoreapp3.1\compozite.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\compozite\obj\Debug\netcoreapp3.1\compozite.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\bin\Debug\netcoreapp3.1\M2.Visitor.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\bin\Debug\netcoreapp3.1\M2.Visitor.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\bin\Debug\netcoreapp3.1\M2.Visitor.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\bin\Debug\netcoreapp3.1\M2.Visitor.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\bin\Debug\netcoreapp3.1\M2.Visitor.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\bin\Debug\netcoreapp3.1\M2.Visitor.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\obj\Debug\netcoreapp3.1\M2.Visitor.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\obj\Debug\netcoreapp3.1\M2.Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\obj\Debug\netcoreapp3.1\M2.Visitor.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\obj\Debug\netcoreapp3.1\M2.Visitor.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\obj\Debug\netcoreapp3.1\M2.Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\obj\Debug\netcoreapp3.1\M2.Visitor.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\obj\Debug\netcoreapp3.1\M2.Visitor.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M2.Visitor\obj\Debug\netcoreapp3.1\M2.Visitor.genruntimeconfig.cache

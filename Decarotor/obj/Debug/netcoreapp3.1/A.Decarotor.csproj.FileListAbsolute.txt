@@ -1,0 +1,13 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\bin\Debug\netcoreapp3.1\A.Decarotor.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\bin\Debug\netcoreapp3.1\A.Decarotor.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\bin\Debug\netcoreapp3.1\A.Decarotor.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\bin\Debug\netcoreapp3.1\A.Decarotor.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\bin\Debug\netcoreapp3.1\A.Decarotor.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\bin\Debug\netcoreapp3.1\A.Decarotor.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\obj\Debug\netcoreapp3.1\A.Decarotor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\obj\Debug\netcoreapp3.1\A.Decarotor.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\obj\Debug\netcoreapp3.1\A.Decarotor.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\obj\Debug\netcoreapp3.1\A.Decarotor.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\obj\Debug\netcoreapp3.1\A.Decarotor.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\obj\Debug\netcoreapp3.1\A.Decarotor.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Decarotor\obj\Debug\netcoreapp3.1\A.Decarotor.genruntimeconfig.cache

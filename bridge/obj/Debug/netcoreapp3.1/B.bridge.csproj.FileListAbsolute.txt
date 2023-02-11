@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\bin\Debug\netcoreapp3.1\B.bridge.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\bin\Debug\netcoreapp3.1\B.bridge.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\bin\Debug\netcoreapp3.1\B.bridge.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\bin\Debug\netcoreapp3.1\B.bridge.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\bin\Debug\netcoreapp3.1\B.bridge.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\bin\Debug\netcoreapp3.1\B.bridge.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\obj\Debug\netcoreapp3.1\B.bridge.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\obj\Debug\netcoreapp3.1\B.bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\obj\Debug\netcoreapp3.1\B.bridge.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\obj\Debug\netcoreapp3.1\B.bridge.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\obj\Debug\netcoreapp3.1\B.bridge.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\obj\Debug\netcoreapp3.1\B.bridge.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\obj\Debug\netcoreapp3.1\B.bridge.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\bridge\obj\Debug\netcoreapp3.1\B.bridge.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\bin\Debug\netcoreapp3.1\9Proxy.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\bin\Debug\netcoreapp3.1\9Proxy.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\bin\Debug\netcoreapp3.1\9Proxy.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\bin\Debug\netcoreapp3.1\9Proxy.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\bin\Debug\netcoreapp3.1\9Proxy.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\bin\Debug\netcoreapp3.1\9Proxy.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\obj\Debug\netcoreapp3.1\9Proxy.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\obj\Debug\netcoreapp3.1\9Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\obj\Debug\netcoreapp3.1\9Proxy.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\obj\Debug\netcoreapp3.1\9Proxy.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\obj\Debug\netcoreapp3.1\9Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\obj\Debug\netcoreapp3.1\9Proxy.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\obj\Debug\netcoreapp3.1\9Proxy.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Proxy\obj\Debug\netcoreapp3.1\9Proxy.genruntimeconfig.cache

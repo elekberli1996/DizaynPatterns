@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\bin\Debug\netcoreapp3.1\F.Memento.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\bin\Debug\netcoreapp3.1\F.Memento.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\bin\Debug\netcoreapp3.1\F.Memento.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\bin\Debug\netcoreapp3.1\F.Memento.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\bin\Debug\netcoreapp3.1\F.Memento.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\bin\Debug\netcoreapp3.1\F.Memento.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\obj\Debug\netcoreapp3.1\F.Memento.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\obj\Debug\netcoreapp3.1\F.Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\obj\Debug\netcoreapp3.1\F.Memento.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\obj\Debug\netcoreapp3.1\F.Memento.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\obj\Debug\netcoreapp3.1\F.Memento.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\obj\Debug\netcoreapp3.1\F.Memento.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\obj\Debug\netcoreapp3.1\F.Memento.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Memento\obj\Debug\netcoreapp3.1\F.Memento.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\bin\Debug\netcoreapp3.1\M3.DependencyInjection.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\bin\Debug\netcoreapp3.1\M3.DependencyInjection.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\bin\Debug\netcoreapp3.1\M3.DependencyInjection.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\bin\Debug\netcoreapp3.1\M3.DependencyInjection.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\bin\Debug\netcoreapp3.1\M3.DependencyInjection.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\bin\Debug\netcoreapp3.1\M3.DependencyInjection.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\obj\Debug\netcoreapp3.1\M3.DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\obj\Debug\netcoreapp3.1\M3.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\obj\Debug\netcoreapp3.1\M3.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\obj\Debug\netcoreapp3.1\M3.DependencyInjection.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\obj\Debug\netcoreapp3.1\M3.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\obj\Debug\netcoreapp3.1\M3.DependencyInjection.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\obj\Debug\netcoreapp3.1\M3.DependencyInjection.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\obj\Debug\netcoreapp3.1\M3.DependencyInjection.genruntimeconfig.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\bin\Debug\netcoreapp3.1\Ninject.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M3.DependencyInjection\obj\Debug\netcoreapp3.1\M3.DependencyInjection.csproj.CopyComplete

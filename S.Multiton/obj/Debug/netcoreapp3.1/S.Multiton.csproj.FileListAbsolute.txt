@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\bin\Debug\netcoreapp3.1\S.Multiton.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\bin\Debug\netcoreapp3.1\S.Multiton.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\bin\Debug\netcoreapp3.1\S.Multiton.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\bin\Debug\netcoreapp3.1\S.Multiton.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\bin\Debug\netcoreapp3.1\S.Multiton.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\bin\Debug\netcoreapp3.1\S.Multiton.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\obj\Debug\netcoreapp3.1\S.Multiton.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\obj\Debug\netcoreapp3.1\S.Multiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\obj\Debug\netcoreapp3.1\S.Multiton.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\obj\Debug\netcoreapp3.1\S.Multiton.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\obj\Debug\netcoreapp3.1\S.Multiton.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\obj\Debug\netcoreapp3.1\S.Multiton.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\obj\Debug\netcoreapp3.1\S.Multiton.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\S.Multiton\obj\Debug\netcoreapp3.1\S.Multiton.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\bin\Debug\netcoreapp3.1\6Facade.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\bin\Debug\netcoreapp3.1\6Facade.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\bin\Debug\netcoreapp3.1\6Facade.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\bin\Debug\netcoreapp3.1\6Facade.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\bin\Debug\netcoreapp3.1\6Facade.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\bin\Debug\netcoreapp3.1\6Facade.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\obj\Debug\netcoreapp3.1\6Facade.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\obj\Debug\netcoreapp3.1\6Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\obj\Debug\netcoreapp3.1\6Facade.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\obj\Debug\netcoreapp3.1\6Facade.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\obj\Debug\netcoreapp3.1\6Facade.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\obj\Debug\netcoreapp3.1\6Facade.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\obj\Debug\netcoreapp3.1\6Facade.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Facade\obj\Debug\netcoreapp3.1\6Facade.genruntimeconfig.cache

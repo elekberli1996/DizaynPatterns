@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\obj\Debug\netcoreapp3.1\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.AssemblyReference.cache

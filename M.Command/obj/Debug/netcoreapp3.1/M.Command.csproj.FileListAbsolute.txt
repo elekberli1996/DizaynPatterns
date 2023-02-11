@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\obj\Debug\netcoreapp3.1\M.Command.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\obj\Debug\netcoreapp3.1\M.Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\obj\Debug\netcoreapp3.1\M.Command.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\obj\Debug\netcoreapp3.1\M.Command.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\obj\Debug\netcoreapp3.1\M.Command.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\bin\Debug\netcoreapp3.1\M.Command.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\bin\Debug\netcoreapp3.1\M.Command.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\bin\Debug\netcoreapp3.1\M.Command.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\bin\Debug\netcoreapp3.1\M.Command.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\bin\Debug\netcoreapp3.1\M.Command.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\bin\Debug\netcoreapp3.1\M.Command.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\obj\Debug\netcoreapp3.1\M.Command.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\obj\Debug\netcoreapp3.1\M.Command.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\M.Command\obj\Debug\netcoreapp3.1\M.Command.genruntimeconfig.cache

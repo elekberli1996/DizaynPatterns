@@ -1,0 +1,13 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\bin\Debug\netcoreapp3.1\C.Strategy.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\bin\Debug\netcoreapp3.1\C.Strategy.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\bin\Debug\netcoreapp3.1\C.Strategy.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\bin\Debug\netcoreapp3.1\C.Strategy.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\bin\Debug\netcoreapp3.1\C.Strategy.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\bin\Debug\netcoreapp3.1\C.Strategy.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\obj\Debug\netcoreapp3.1\C.Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\obj\Debug\netcoreapp3.1\C.Strategy.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\obj\Debug\netcoreapp3.1\C.Strategy.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\obj\Debug\netcoreapp3.1\C.Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\obj\Debug\netcoreapp3.1\C.Strategy.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\obj\Debug\netcoreapp3.1\C.Strategy.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Strategy\obj\Debug\netcoreapp3.1\C.Strategy.genruntimeconfig.cache

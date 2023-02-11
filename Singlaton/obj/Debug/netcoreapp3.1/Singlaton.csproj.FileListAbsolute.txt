@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\bin\Debug\netcoreapp3.1\Singlaton.exe
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\bin\Debug\netcoreapp3.1\Singlaton.deps.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\bin\Debug\netcoreapp3.1\Singlaton.runtimeconfig.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\bin\Debug\netcoreapp3.1\Singlaton.runtimeconfig.dev.json
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\bin\Debug\netcoreapp3.1\Singlaton.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\bin\Debug\netcoreapp3.1\Singlaton.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\obj\Debug\netcoreapp3.1\Singlaton.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\obj\Debug\netcoreapp3.1\Singlaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\obj\Debug\netcoreapp3.1\Singlaton.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\obj\Debug\netcoreapp3.1\Singlaton.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\obj\Debug\netcoreapp3.1\Singlaton.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\obj\Debug\netcoreapp3.1\Singlaton.dll
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\obj\Debug\netcoreapp3.1\Singlaton.pdb
+C:\Users\Emin\Desktop\Csharp\DesignPattern\DesignPattern\Singlaton\obj\Debug\netcoreapp3.1\Singlaton.genruntimeconfig.cache
